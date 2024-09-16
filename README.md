@@ -13,7 +13,7 @@ I'm a Web Developer, and I'm studying web development at [Rocketseat](https://ap
 
 #### Contacts
 - 📧 Email: lucas.primati@hotmail.com
-- 👤 Linkdein: [LinkdeIn](https://www.linkedin.com/in/lucas-primati/)
+- 👤 Linkedin: [LinkdeIn](https://www.linkedin.com/in/lucas-primati/)
 
 <!--
 **luprime/luprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
